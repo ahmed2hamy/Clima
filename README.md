@@ -1,4 +1,4 @@
-# clima
+# Clima
 
 Temprature in any location.
 
